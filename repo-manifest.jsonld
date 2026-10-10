@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/psf/diversity-and-inclusion-wg/commit/73b21b9dc523abbd61218e342234b9ae19eef9cb",
       "git:hexsha": "73b21b9dc523abbd61218e342234b9ae19eef9cb",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
